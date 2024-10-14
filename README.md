@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **omsharma.2104@gmail.com**
 
-- 📄 Know about me [https://github.com/omsharma-004/CV](https://github.com/omsharma-004/CV)
+- 📄 Know about me [CV](https://github.com/omsharma-004/CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
